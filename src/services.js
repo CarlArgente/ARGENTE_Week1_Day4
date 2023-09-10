@@ -1,0 +1,1 @@
+export const getTodo = "https://jsonplaceholder.typicode.com/todos/";
